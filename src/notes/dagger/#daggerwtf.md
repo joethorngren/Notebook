@@ -1,0 +1,3 @@
+César Puerta [11:17 AM
+
+The subcomponents array allows you to declare a subcomponent in a graph without the need to add a provision method to a component definition. Just adding the module to your graph makes the subcomponent available to it. It's useful if you'll only inject subcomponents or subcomponent builders. It also allows you to provide your subcomponents for injection into map multibindings (so the you can look up subcomponent builders using a key)

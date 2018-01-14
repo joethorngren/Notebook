@@ -1,0 +1,37 @@
+Hey All-- Couple random/quick things:
+
+1. Bookmarks
+
+I have known abut "Bookmarks" in IntelliJ/Studio for quite some time, but I never actually used them. This past week, I've set up four basic ones and it has been absolutely awesome. I don't know what took me so long to get on board.
+
+As a quick little introduction, here's the basics:
+
+* Simple Bookmarks:
+
+You can toggle a "Simple Bookmark":one: on/off by just pressing `F11`. If you want to view your bookmarks, push `CTRL + F11`:two:. Aside from using the build in "Bookmarks Menu" that pops up when you press `CTRL + F11`, you can also tell a line/location is bookmarked in the editor tab "gutter" that is marked with a :white_check_mark:
+
+![image](file:///home/oh-henry/Code_Complete/CC-Notebook/src/notes/tack/scratch/gutter_checkmark.png)
+
+Easy stuff. I haven't really started using these all that much.
+
+* "Smart Bookmarks"
+
+For these, you can press `CTRL + F11`:two: to "Toggle a bookmark with mnemonic", which enables this screen:
+
+![bookmark_mnemonic](file:///home/oh-henry/Code_Complete/CC-Notebook/src/notes/tack/scratch/bookmark_mnemonic.png)
+
+This is what I started using the past week and it has been great.  I have #1 (used by pressing `CTRL + 1` takes me the application's `build.gradle` file, `CTRL + 2` takes me the project's `build.gradle`, `CTRL + 3` takes me to the `AndroidManifest.xml`, and `CTRL + 4` takes me to the application class.
+
+As the screenshot indicates, you can use 0-9 and A-Z, so there are a lot of options.
+
+2. "Movie Mondays" or something of the like.
+
+@steven.gerdes and I were talking last week about doing something like a weekly/bi-weekly meeting, where we could sit and watch a talk from a presentation/meetup.  My list of these seems to grow faster than I can actually watch them, so I thought this might be a better strategy for managing them.  I was thinking, we could set up a shared list and people could vote for ones that wanted to see. If we run out of those, we can just pick the next video in the list.
+
+I'm definitely open to experimenting with the format of this, maybe we could all watch the talk on our own over the weekend/previous day, and then just have a little discussion about it, or we could actually just watch it as a group (we'll have to talk about how to handle all the different remote folks and everything). Another option might be to just maintain a curated list, and if someone watched one, they could give their general impressions, things they learned, etc. etc.
+
+For now, I just wanted to gauge the level of interest from anyone else who might want to participate.
+
+Let me know what you think and feel free to share any ideas/suggestions.
+
+
